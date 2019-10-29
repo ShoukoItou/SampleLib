@@ -1,0 +1,16 @@
+PODS:
+  - SampleLib (0.1.0)
+
+DEPENDENCIES:
+  - SampleLib (from `../`)
+
+EXTERNAL SOURCES:
+  SampleLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SampleLib: 69419bb8d38d205bd8dd665d09d73f02902e6fc2
+
+PODFILE CHECKSUM: 2ee8c4806dfc55748834da0e6e4ae2d5bcefbbe2
+
+COCOAPODS: 1.8.3
