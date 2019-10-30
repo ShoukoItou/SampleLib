@@ -1,9 +1,13 @@
 import Foundation
 
 public class Sample {
+
+	public init() {
+	}
+
     public var str: String = "Hello, world!"
 
-    public func printStr() -> String {
+    public func getStr() -> String {
         return str
     }
 }
