@@ -2,12 +2,11 @@ import Foundation
 
 public class Sample {
 
-	public init() {
-	}
+	public init() {}
 
     public var str: String = "Hello, world!"
 
     public func getStr() -> String {
-        return str
+        return self.str
     }
 }

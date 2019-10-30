@@ -1,13 +1,10 @@
 {
   "name": "SampleLib",
   "version": "0.1.0",
-  "summary": "A short description of SampleLib.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "SampleLib is sample of liblary.",
+  "description": "- You can check sample of liblary that simple.",
   "homepage": "https://github.com/ShoukoItou/SampleLib",
-  "license": {
-    "type": "MIT",
-    "file": "LICENSE"
-  },
+  "license": "MIT",
   "authors": {
     "ShoukoItou": "Shouko.Itou-N467@nid.co.jp"
   },
@@ -18,5 +15,7 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "SampleLib/Classes/**/*"
+  "source_files": "SampleLib/Classes/**/*",
+  "swift_versions": "4.0",
+  "swift_version": "4.0"
 }
